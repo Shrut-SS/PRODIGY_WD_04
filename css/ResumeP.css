@@ -61,7 +61,7 @@ body::-webkit-scrollbar {
 
 .no-list-style li a{
     list-style: none;
-    color: white;
+    color: black;
     text-decoration: none;
 }
 .horizontal-list {
@@ -72,7 +72,7 @@ body::-webkit-scrollbar {
 .horizontal-list li {
     display: inline-block;
     margin: 30px 10px 10px 10px;
-    color: white;                      
+    color: black;                      
 	text-decoration: none;    /*text should not have bullet and color transition time and font setting*/
 	transition: color 0.5s, border-bottom 4s;
 	font-size: 23px;
@@ -86,7 +86,7 @@ body::-webkit-scrollbar {
 }
 
 .nav-menu li a:hover {
-    color: lightgrey;
+    color: white;
     border-bottom: 1px solid black;
 }
 .text-center{                     /*all text should align center*/
